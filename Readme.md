@@ -15,4 +15,4 @@ Polish language as main
 * initial user/password: **admin / admin**
 
 ## DockerHub
-[SeedDMS](http://local.link)
+[SeedDMS](https://hub.docker.com/repository/docker/barricadepl/seed_dms_full)
