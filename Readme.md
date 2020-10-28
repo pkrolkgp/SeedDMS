@@ -15,5 +15,13 @@ Polish language as main
 * after build go to http://localhost:8080/install
 * initial user/password: **admin / admin**
 
+## LDAP account info 
+[docker-test-openldap](https://github.com/rroemhild/docker-test-openldap)
+
+## Mailcatcher
+[mailcatcher](https://hub.docker.com/r/yappabe/mailcatcher)
+https://hub.docker.com/r/yappabe/mailcatcher
+* after build go to http://localhost:1080/ to see outgoing mails
+
 ## DockerHub
 [SeedDMS](https://hub.docker.com/repository/docker/barricadepl/seed_dms_full)
