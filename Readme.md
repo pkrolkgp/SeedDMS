@@ -24,4 +24,4 @@ https://hub.docker.com/r/yappabe/mailcatcher
 * after build go to http://localhost:1080/ to see outgoing mails
 
 ## DockerHub
-[SeedDMS](https://hub.docker.com/repository/docker/barricadepl/seed_dms_full)
+[SeedDMS](https://hub.docker.com/repository/docker/barricadepl/seeddms_ldap)
