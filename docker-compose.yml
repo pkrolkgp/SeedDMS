@@ -35,7 +35,7 @@ services:
     build: ./seed
     container_name: SEED
     restart: always
-    image: barricadepl/seed_dms_full:latest
+    image: barricadepl/seed_dms_full:1.0
     volumes:
       - './seed/conf:/var/www/seeddms60x/conf'  
       - './seed/pliki:/home/data'  
